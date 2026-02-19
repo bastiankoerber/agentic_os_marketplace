@@ -1,0 +1,13 @@
+{
+  "id": "com.example.chat-studio",
+  "name": "Chat Studio",
+  "version": "1.0.6",
+  "zip": "chat-studio-1.0.6.zip",
+  "tagline": "Flexible chat workspace for Agentic OS",
+  "description": "Run model conversations with configurable memory, provider defaults, and GitHub-assisted workflows.",
+  "author": "bastiankoerber",
+  "icon": "icon.svg",
+  "hero": "hero.svg",
+  "website": "https://github.com/bastiankoerber/agentic_os_marketplace",
+  "categories": ["test", "chat", "productivity"]
+}

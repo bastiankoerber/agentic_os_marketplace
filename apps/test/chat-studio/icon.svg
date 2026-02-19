@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Chat Studio icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f7a8c"/>
+      <stop offset="100%" stop-color="#125f6f"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="52" fill="url(#bg)"/>
+  <path d="M64 88h128a16 16 0 0 1 16 16v54a16 16 0 0 1-16 16H120l-34 24a6 6 0 0 1-9.5-4.8V174H64a16 16 0 0 1-16-16v-54a16 16 0 0 1 16-16z" fill="#f4fbff"/>
+  <circle cx="98" cy="131" r="10" fill="#1f7a8c"/>
+  <circle cx="128" cy="131" r="10" fill="#1f7a8c"/>
+  <circle cx="158" cy="131" r="10" fill="#1f7a8c"/>
+</svg>

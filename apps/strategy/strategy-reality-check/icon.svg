@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Strategy Reality Check icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d6f59"/>
+      <stop offset="100%" stop-color="#144a3f"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="224" height="224" rx="52" fill="url(#bg)"/>
+  <path d="M62 74h132a12 12 0 0 1 12 12v84a12 12 0 0 1-12 12H62a12 12 0 0 1-12-12V86a12 12 0 0 1 12-12z" fill="#f2fff9"/>
+  <path d="M82 102h92" stroke="#1d6f59" stroke-width="10" stroke-linecap="round"/>
+  <path d="M82 128h58" stroke="#1d6f59" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="172" cy="146" r="24" fill="#1d6f59"/>
+  <path d="m162 146 8 8 14-16" fill="none" stroke="#f2fff9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

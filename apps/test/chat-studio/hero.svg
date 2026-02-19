@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Chat Studio hero image">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9f6fb"/>
+      <stop offset="100%" stop-color="#d7f0ee"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f3fbff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#heroBg)"/>
+  <circle cx="1030" cy="120" r="120" fill="#1f7a8c" opacity="0.16"/>
+  <circle cx="160" cy="540" r="140" fill="#125f6f" opacity="0.12"/>
+
+  <rect x="120" y="120" width="960" height="390" rx="28" fill="url(#cardBg)" stroke="#b9dae4"/>
+  <rect x="120" y="120" width="960" height="66" rx="28" fill="#1f7a8c"/>
+  <text x="156" y="161" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#f3fbff" font-weight="700">Chat Studio</text>
+  <text x="390" y="161" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#d9f1f6">Flexible chat workspace for Agentic OS</text>
+
+  <rect x="160" y="220" width="560" height="62" rx="14" fill="#ecf6ff"/>
+  <text x="186" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#144a59">Draft a launch announcement with 3 tones.</text>
+
+  <rect x="160" y="304" width="760" height="72" rx="14" fill="#ffffff" stroke="#d6e8f4"/>
+  <text x="186" y="336" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#143b4a">- Crisp product summary</text>
+  <text x="186" y="362" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#143b4a">- Optional GitHub context and memory controls</text>
+
+  <rect x="160" y="398" width="220" height="56" rx="12" fill="#1f7a8c"/>
+  <text x="214" y="434" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#f4fbff" font-weight="700">Start Chat</text>
+
+  <rect x="760" y="220" width="280" height="234" rx="16" fill="#f8fdff" stroke="#d6e8f4"/>
+  <text x="790" y="264" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#143b4a" font-weight="700">Highlights</text>
+  <text x="790" y="302" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#2a5362">- Session memory options</text>
+  <text x="790" y="332" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#2a5362">- Provider/model selector</text>
+  <text x="790" y="362" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#2a5362">- GitHub tools toggle</text>
+  <text x="790" y="392" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#2a5362">- Fast prompt iteration</text>
+</svg>
